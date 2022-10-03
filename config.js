@@ -5,19 +5,19 @@
 //misal gua lupa nambah atau typo benerin aja bre gua pusing njir awokawok 
 
 //Global Owner//
-global.owner = ['6282221792667']  // isi jika perlu
-global.mods = ['6282221792667']   // isi jika perlu
-global.prems = ['6282221792667']  // isi jika perlu
+global.owner = ['6285868055463']  // isi jika perlu
+global.mods = ['6285868055463']   // isi jika perlu
+global.prems = ['6285868055463']  // isi jika perlu
 
 //Nomor Owner & payment//
 global.nameowner = 'TioXd' // isi nama kalian bebas
-global.numberowner = '6282221792667' // isi nomor kalian dengan awalan seperti di contoh 
-global.dana = '6282221792667' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '6282221792667' // isi dengan nomor pulsa hp kalian
-global.gopay = '6282221792667'
+global.numberowner = '6285868055463' // isi nomor kalian dengan awalan seperti di contoh 
+global.dana = '6285868055463' // isi dengan nomor dana yg kamu punya 
+global.pulsa = '6285868055463' // isi dengan nomor pulsa hp kalian
+global.gopay = '6285868055463'
 
 //Nama Bot & Grouplink//
-global.namebot = 'RTXZY-MD'
+global.namebot = 'Matchbox-MD
 global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
 global.web = 'https://github.com/BOTCAHX' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 
@@ -36,7 +36,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nR-TXZY-MD'
+global.author = 'Bot WhatsApp\nMatchbox-MD'
 
 //Apikey Setting//
 global.APIs = { // API Prefix
